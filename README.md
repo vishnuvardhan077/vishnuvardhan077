@@ -6,77 +6,91 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+ML+Student;Robotics+Enthusiast;Python+%7C+Java+Developer;LeetCode+Problem+Solver;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=FF0000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vishnu+Vardhan+👋;AI+%26+ML+Student;Robotics+Enthusiast;Python+%7C+Java+Developer;LeetCode+Problem+Solver;Future+AI+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m a **4th Semester B.Tech student** specializing in **Artificial Intelligence, Machine Learning, and Robotics** 🤖.  
-I’m focused on building strong fundamentals in **DSA**, writing clean code, and applying AI concepts through hands-on projects.
+I’m a **4th Semester B.Tech student** specializing in  
+**Artificial Intelligence, Machine Learning, and Robotics** 🤖  
 
-- 🎓 B.Tech (AI, ML & Robotics)
-- 💻 Strong interest in **Data Structures & Algorithms**
+I focus on **strong CS fundamentals**, consistent **DSA practice**, and applying AI concepts through projects.
+
+- 🎓 B.Tech – **AI, ML & Robotics**
+- 💻 Passionate about **Data Structures & Algorithms**
 - 🧠 Regular **LeetCode** problem solver
-- 🛠️ Programming with **Python** and **Java**
-- 🚀 Exploring **AI/ML projects** and real-world applications
-- 🌱 Always learning and improving
+- 🛠️ Languages: **Python & Java**
+- 🚀 Exploring **AI/ML & Robotics projects**
+- 🌱 Learning every day, step by step
 
-I’m open to **internships, open-source contributions, and collaborative projects**.
+💡 *Open to internships, open-source contributions, and collaborations.*
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,linux,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## ⚡ GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical"/>
 </p>
 
 ---
 
 ## 🧠 DSA & Coding Practice
 
-- 🟧 **LeetCode** – Consistent problem solving
-- 🎯 Focus on arrays, strings, recursion, DP, and graphs
-- 🧩 Improving time & space complexity thinking
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/DSA-Daily%20Practice-red?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Learning Focus
 
-<p>
+- ✔️ Arrays, Strings, Linked Lists
+- ✔️ Recursion & Backtracking
+- ✔️ Stack & Queue
+- ✔️ Trees & Graphs
+- ✔️ Dynamic Programming
+- ✔️ Machine Learning fundamentals
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:38BDF8,100:9333EA&height=120&section=footer"/>
-
-  
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer"/>
+</p>

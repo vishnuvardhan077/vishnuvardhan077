@@ -1,9 +1,6 @@
 ## Hi 👋, I'm Vishnu Vardhan
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=AI+%26+ML+Student;Robotics+Enthusiast;Python+%7C+Java+%7C+DSA)
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Robotics+Enthusiast;Python+%7C+Java+Developer;Realtime+Problem+Solver;Open+Source+Learner" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=FF0000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vishnu+Vardhan+👋;AI+%26+ML+Student;Robotics+Enthusiast;Python+%7C+Java+Developer;LeetCode+Problem+Solver;Future+AI+Engineer" />

@@ -1,6 +1,10 @@
 ## Hi 👋, I'm Vishnu Vardhan
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=AI+%26+ML+Student;Robotics+Enthusiast;Python+%7C+Java+%7C+DSA)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Robotics+Enthusiast;Python+%7C+Java+Developer;LeetCode+Problem+Solver;Open+Source+Learner" />
+</p>
+
 # 💫 About Me:
 I'm currently studying 2nd year 4th Semester CSE B.Tech student  <br>specializing in  Artificial Intelligence, Machine Learning, and Robotics .  <br>I enjoy building a strong foundation in computer science <br>while exploring real-world applications of AI.<br><br>- 🎓 Pursuing B.Tech with a focus on **AI, ML & Robotics**<br>- 💻 Strong interest in **Data Structures & Algorithms**<br>- 🧠 Practicing problem-solving regularly on **LeetCode**<br>- 🛠️ Skilled in **Python** and **Java**<br>- 🚀 Exploring **AI/ML projects** and hands-on learning<br>- 🌱 Continuously learning and improving my technical skills<br><br>I’m open to **collaborating on open-source projects**, internships, and learning opportunities in AI and software development.<br>
 

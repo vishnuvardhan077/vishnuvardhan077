@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=AI+%26+ML+Student;Robotics+Enthusiast;Python+%7C+Java+%7C+DSA)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=FF0000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vishnu+Vardhan+👋;AI+%26+ML+Student;Robotics+Enthusiast;Python+%7C+Java+Developer;LeetCode+Problem+Solver;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=FF0000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Vishnu+Vardhan+👋;AI+%26+ML+Student+🤖;Robotics+Enthusiast;HTML+%7C+CSS+%7C+Java+%7C+Python;LeetCode+Problem+Solver;Future+Software+Engineer" />
 </p>
 
 <p align="center">
@@ -17,28 +17,36 @@
 I’m a **4th Semester B.Tech student** specializing in  
 **Artificial Intelligence, Machine Learning, and Robotics** 🤖  
 
-I focus on **strong CS fundamentals**, consistent **DSA practice**, and applying AI concepts through projects.
+I focus on building **strong fundamentals**, consistent **DSA practice**, and creating **real-world projects** using modern technologies.
 
 - 🎓 B.Tech – **AI, ML & Robotics**
-- 💻 Passionate about **Data Structures & Algorithms**
+- 💻 Interested in **Data Structures & Algorithms**
 - 🧠 Regular **LeetCode** problem solver
-- 🛠️ Languages: **Python & Java**
-- 🚀 Exploring **AI/ML & Robotics projects**
-- 🌱 Learning every day, step by step
+- 🛠️ Web & Programming Languages: **HTML, CSS, Java, Python**
+- 🚀 Exploring **AI/ML projects**
+- 🌱 Always learning and improving
 
-💡 *Open to internships, open-source contributions, and collaborations.*
+💡 *Open to internships, open-source collaboration, and learning opportunities.*
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Languages Known
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,python&theme=dark" />
 </p>
 
 ---
 
-## 🔥 GitHub Stats (Live)
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Live)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165"/>
@@ -47,7 +55,7 @@ I focus on **strong CS fundamentals**, consistent **DSA practice**, and applying
 
 ---
 
-## ⚡ GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical"/>
@@ -55,7 +63,7 @@ I focus on **strong CS fundamentals**, consistent **DSA practice**, and applying
 
 ---
 
-## 🧠 DSA & Coding Practice
+## 🧩 DSA & Coding Practice
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
@@ -64,13 +72,12 @@ I focus on **strong CS fundamentals**, consistent **DSA practice**, and applying
 
 ---
 
-## 🚀 Learning Focus
+## 🚀 Currently Learning
 
-- ✔️ Arrays, Strings, Linked Lists
-- ✔️ Recursion & Backtracking
-- ✔️ Stack & Queue
-- ✔️ Trees & Graphs
-- ✔️ Dynamic Programming
+- ✔️ Advanced **Java**
+- ✔️ **Python for AI & ML**
+- ✔️ Web Development with **HTML & CSS**
+- ✔️ Core **DSA concepts**
 - ✔️ Machine Learning fundamentals
 
 ---

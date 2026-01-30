@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I am a **4th Semester B.Tech student** specializing in **Artificial Intelligence, Machine Learning, and Robotics**.  
+I am a **4th Semester B.Tech student** specializing in **Artificial Intelligence, Machine Learning**.  
 I focus on building strong **computer science fundamentals**, writing clean code, and applying concepts through projects.
 
 - 🎓 B.Tech – AI, ML 

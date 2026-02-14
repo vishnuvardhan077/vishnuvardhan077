@@ -27,7 +27,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vishnuvardhan077&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff0000, #00ffcc, #ff00ff);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;">
+    Vishnu Vardhan
+  </span>
+</h1>
 
 
 
